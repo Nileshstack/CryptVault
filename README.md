@@ -35,7 +35,7 @@ I used **CryptoJS AES** for encryption because:
 ### Clone the repo
   ```bash
   git clone https://github.com/Nileshstack/CryptVault.git
-  cd vaultify
+  cd CryptVault
   npm install
 
 
